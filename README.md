@@ -2,6 +2,10 @@
 
 A third-party Jellyfin plugin repository for **Personal Cable TV Jellyfin Companion**.
 
+> **Personal Cable TV is required.** This repository contains only the optional Jellyfin Companion plugin.  
+> Download and install the main Personal Cable TV server first from:  
+> https://github.com/akaidragon123k/Personal-Cable-TV
+
 This Companion integrates Personal Cable TV with supported Jellyfin clients and preserves the cable-style live-TV experience.
 
 ## Current release
@@ -39,6 +43,14 @@ Add this repository once in Jellyfin:
 Then open Jellyfin's plugin catalog and install **Personal Cable TV Jellyfin Companion**.
 
 After future releases are added to this repository manifest, Jellyfin can discover the newer plugin version without requiring users to manually find the ZIP on GitHub.
+
+## Need Personal Cable TV first?
+
+The Companion does not include the Personal Cable TV server.
+
+Main project and server download:
+
+https://github.com/akaidragon123k/Personal-Cable-TV
 
 ## Manual release download
 
