@@ -1,0 +1,2 @@
+b8f46eb844b84c29719a80c6dd3e45d0  PersonalCableTvCompanion_0.1.0.1_CHANNEL_SURF_FINAL.zip  MD5-for-Jellyfin-manifest
+bea48c06c164e34941ea311c19180340612637a51c0e3c8a833416026c4639a9  PersonalCableTvCompanion_0.1.0.1_CHANNEL_SURF_FINAL.zip  SHA256-reference
