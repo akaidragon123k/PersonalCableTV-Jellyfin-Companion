@@ -1,0 +1,21 @@
+[
+  {
+    "category": "Live TV",
+    "guid": "f13517a4-d3c0-46b8-b1b0-15993d09139f",
+    "name": "Personal Cable TV Jellyfin Companion",
+    "description": "Unofficial Personal Cable TV companion integration for Jellyfin 10.11.10.",
+    "overview": "Adds the Personal Cable TV guide experience to supported Jellyfin clients. LG/webOS channel surfing is verified; Roku Jellyfin-client support is limited.",
+    "owner": "Akai Dragon",
+    "imageUrl": "https://raw.githubusercontent.com/akaidragon123k/PersonalCableTV-Jellyfin-Companion/main/assets/pctv-tv.svg",
+    "versions": [
+      {
+        "version": "0.1.0.1",
+        "changelog": "Verified LG/webOS channel-surfing release. During Personal Cable TV live playback, Up/Down changes channels while pause, rewind, fast-forward, seek/scrub, and chapter-skip remain blocked. Known limitation: the Jellyfin Roku client does not support Companion Up/Down channel surfing and may still expose Pause. Roku users should use the dedicated P.Cable TV Companion Roku app for the full live-TV experience.",
+        "targetAbi": "10.11.10.0",
+        "sourceUrl": "https://github.com/akaidragon123k/PersonalCableTV-Jellyfin-Companion/releases/download/v0.1.0.1/PersonalCableTvCompanion_0.1.0.1_CHANNEL_SURF_FINAL.zip",
+        "checksum": "b8f46eb844b84c29719a80c6dd3e45d0",
+        "timestamp": "2026-10-08T00:00:00Z"
+      }
+    ]
+  }
+]
