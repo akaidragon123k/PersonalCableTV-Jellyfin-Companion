@@ -3,8 +3,8 @@
     "category": "Live TV",
     "guid": "f13517a4-d3c0-46b8-b1b0-15993d09139f",
     "name": "Personal Cable TV Jellyfin Companion",
-    "description": "Unofficial Personal Cable TV companion integration for Jellyfin 10.11.10.",
-    "overview": "Adds the Personal Cable TV guide experience to supported Jellyfin clients. LG/webOS channel surfing is verified; Roku Jellyfin-client support is limited.",
+    "description": "Optional Jellyfin Companion for Personal Cable TV. Requires a working Personal Cable TV server and your own media library; media is not included.",
+    "overview": "Adds the Personal Cable TV guide and cable-style viewing experience to supported Jellyfin clients. Requires Personal Cable TV and Jellyfin Live TV to be configured first. LG/webOS channel surfing is verified; Roku Jellyfin-client support is limited.",
     "owner": "Akai Dragon",
     "imageUrl": "https://raw.githubusercontent.com/akaidragon123k/PersonalCableTV-Jellyfin-Companion/main/assets/pctv-tv.svg",
     "versions": [
