@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akaidragon123k/PersonalCableTV-Jellyfin-Companion/main/assets/pctv-tv.svg",
     "versions": [
       {
+        "version": "0.1.0.3",
+        "changelog": "EXPERIMENTAL TESTING: Jellyfin 12.2.0 compatibility build; Personal Cable TV tuner selection, selected-tuner guide filtering and tuner-scoped cache. Isolated startup and overlay checks passed. Actual tuner mapping, guide behavior, client playback and repository upgrade are not yet verified; back up existing plugin and configuration.",
+        "targetAbi": "12.2.0.0",
+        "sourceUrl": "https://github.com/akaidragon123k/PersonalCableTV-Jellyfin-Companion/releases/download/v0.1.0.3/PersonalCableTvCompanion_v0.1.0.3_TESTING.zip",
+        "checksum": "9d27e234522a8da9a3310eac4fc6482e",
+        "timestamp": "2026-10-23T21:44:07Z"
+      },
+      {
         "version": "0.1.0.2",
         "changelog": "EXPERIMENTAL: Numeric channel entry for Personal Cable TV live playback, Enter/OK confirmation, 2-second auto-tune, Back cancellation. LG/webOS remote verification pending; existing channel surfing preserved.",
         "targetAbi": "10.11.10.0",
