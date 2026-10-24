@@ -10,11 +10,11 @@
     "versions": [
       {
         "version": "0.1.0.3",
-        "changelog": "Jellyfin 12.2.0 testing release: fixed configuration page, guide mounting for Jellyfin 12.2, duplicate stock guide visibility, and custom guide height. Browser verified 105 channels and populated programs. Playback/navigation interactions still require testing.",
+        "changelog": "Android guide fix: restored Android app login and Personal Cable TV custom guide, category selection, vertical/horizontal scrolling, and channel playback with picture and audio. Verified on the production Jellyfin server. Also retains Jellyfin 12.2.0 compatibility and earlier guide fixes.",
         "targetAbi": "12.2.0.0",
-        "sourceUrl": "https://github.com/akaidragon123k/PersonalCableTV-Jellyfin-Companion/releases/download/v0.1.0.3/PersonalCableTvCompanion_v0.1.0.3_FINAL.zip",
-        "checksum": "ff3cdaabac4589bb6f299f3c3814b26b",
-        "timestamp": "2026-10-23T21:44:07Z"
+        "sourceUrl": "https://github.com/akaidragon123k/PersonalCableTV-Jellyfin-Companion/releases/download/v0.1.0.3/PersonalCableTV_Jellyfin_Companion_v0.1.0.3_AndroidGuideFix.zip",
+        "checksum": "965429f1c6c57886a1b5766c6fc64f4a",
+        "timestamp": "2026-10-24T16:51:56Z"
       },
       {
         "version": "0.1.0.2",
